@@ -1,0 +1,6 @@
+{
+  "name": "Écoles Le Berceau des 3S",
+  "description": "Portail officiel des Écoles Le Berceau des 3S : apprentissage, bienveillance, discipline et épanouissement scolaire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
